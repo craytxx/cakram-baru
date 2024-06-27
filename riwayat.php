@@ -75,8 +75,8 @@
 <?php
 // Koneksi ke database
 $servername = "localhost";
-$username = "root"; // Sesuaikan dengan username Anda
-$password = "";     // Sesuaikan dengan password Anda
+$username = "cakram"; // Sesuaikan dengan username Anda
+$password = "cakram";     // Sesuaikan dengan password Anda
 $dbname = "cakram_coba"; // Sesuaikan dengan nama database Anda
 
 $conn = new mysqli($servername, $username, $password, $dbname);
