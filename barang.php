@@ -76,8 +76,8 @@
 
 // Database configuration
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "cakram";
+$password = "cakram";
 $dbname = "cakram_coba";
 
 // Create a connection
