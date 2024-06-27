@@ -182,8 +182,8 @@ and is wrapped around the whole page content, except for the footer in this exam
 
 // Database configuration
 $servername = "localhost";
-$username = "root";
-$password = "";
+$username = "cakram";
+$password = "cakram";
 $dbname = "cakram_coba";
 
 // Create a connection
