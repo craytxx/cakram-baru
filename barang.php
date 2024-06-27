@@ -15,14 +15,14 @@
 
     <nav class="navbar navbar-expand-md navbar-dark" style="background-color: red;">
         <div class="container-fluid">
-            <a class="navbar-brand" href="cakram.php"><i class="fa-solid fa-store"></i> CAKRAM</a>
+            <a class="navbar-brand" href="index.php"><i class="fa-solid fa-store"></i> CAKRAM</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="mynavbar">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="cakram.php" title="Home"><i class="fa-solid fa-house"></i> Home</a>
+                        <a class="nav-link" href="index.php" title="Home"><i class="fa-solid fa-house"></i> Home</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link" href="/home/about"><i class="fa-solid fa-circle-info"></i> About</a>
@@ -169,7 +169,7 @@ if (isset($_GET['delete'])) {
         <a href="javascript:void(0);" class="btn btn-primary"
             onclick="document.getElementById('addForm').style.display='block'"><i class="fa-solid fa-square-plus"></i>
             Tambah Barang</a>
-        <a href="cakram.php" class="btn btn-secondary"><i class="fa-solid fa-left-long"></i> Kembali</a>
+        <a href="index.php" class="btn btn-secondary"><i class="fa-solid fa-left-long"></i> Kembali</a>
         <!-- Back to Home Button -->
         <hr>
 
